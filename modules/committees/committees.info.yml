@@ -1,0 +1,5 @@
+name: Committees Module
+type: module
+description: "FENS Committees Module"
+package: FENS
+core: 8.x

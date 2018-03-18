@@ -1,0 +1,7 @@
+committees:
+  path: '/committees'
+  defaults:
+    _controller: '\Drupal\committees\Controller\CommitteesController::content'
+    _title: 'Hello Worldd'
+  requirements:
+    _role: 'administrator'
